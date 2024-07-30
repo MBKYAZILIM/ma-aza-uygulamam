@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\bin\Debug\net8.0-windows\mağaza uyhulamam.exe
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\bin\Debug\net8.0-windows\mağaza uyhulamam.deps.json
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\bin\Debug\net8.0-windows\mağaza uyhulamam.runtimeconfig.json
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\bin\Debug\net8.0-windows\mağaza uyhulamam.dll
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\bin\Debug\net8.0-windows\mağaza uyhulamam.pdb
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza_uyhulamam.Form1.resources
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza uyhulamam.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza uyhulamam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza uyhulamam.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza uyhulamam.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza uyhulamam.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza uyhulamam.dll
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\refint\mağaza uyhulamam.dll
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza uyhulamam.pdb
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\mağaza uyhulamam.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\mağaza uyhulamam\mağaza uyhulamam\obj\Debug\net8.0-windows\ref\mağaza uyhulamam.dll
